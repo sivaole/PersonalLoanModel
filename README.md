@@ -34,3 +34,10 @@ The file Bank.xls contains data on 5000 customers. The data include customer dem
 6. Print the confusion matrix for all the above models
 7. Give your reasoning on which is the best model in this case and why it performs better?
 
+# Links:
+Data
+Link to the report(detailed analysis) - Report
+Source code can be found on Kaggle
+
+# Developer:
+Sivasankar Vennala
