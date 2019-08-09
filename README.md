@@ -35,9 +35,9 @@ The file Bank.xls contains data on 5000 customers. The data include customer dem
 7. Give your reasoning on which is the best model in this case and why it performs better?
 
 # Links:
-Data
-Link to the report(detailed analysis) - Report
-Source code can be found on Kaggle
+ [Data](https://github.com/sivaole/PersonalLoanModel/blob/master/Bank_Personal_Loan_Modelling.csv)  
+ [Link to the report(detailed analysis) - Report](https://github.com/sivaole/PersonalLoanModel/blob/master/Bank_Personal_Loan_Modelling%20Analysis%20Report.docx)   
+ [Source code](https://github.com/sivaole/PersonalLoanModel/blob/master/Bank_Personal_Loans_Campaign_Modelling.ipynb)
 
 # Developer:
 Sivasankar Vennala
