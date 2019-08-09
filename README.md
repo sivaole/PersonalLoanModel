@@ -24,7 +24,7 @@ The file Bank.xls contains data on 5000 customers. The data include customer dem
 13. Online - Does the customer use internet banking facilities? 
 14. CreditCard -  Does the customer uses a credit card
 
-
+# Considering the information provided above, follow the steps given below --
      
 1. Read the column description and ensure you understand each attribute well 
 2. Study the data distribution in each attribute, share your findings.
